@@ -1,0 +1,10 @@
+c:\users\utilisateur\documents\visual studio 2012\Projects\All COD Recovery\All COD Recovery\bin\Debug\All COD Recovery.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\bin\Debug\All COD Recovery.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\bin\Debug\All COD Recovery.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\bin\Debug\theme.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All COD Recovery.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All_COD_Recovery.Form1.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All_COD_Recovery.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All COD Recovery.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All COD Recovery.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\All COD Recovery\All COD Recovery\obj\Debug\All COD Recovery.pdb
